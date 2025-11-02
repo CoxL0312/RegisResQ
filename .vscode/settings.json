@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": [
+    "RegisResQ/src"
+  ],
+  "java.project.outputPath": "RegisResQ/bin",
+  "java.project.referencedLibraries": [
+    "RegisResQ/lib/**/*.jar"
+  ]
+}
